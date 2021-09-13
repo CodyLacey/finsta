@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/codylacey/truffle-cooking">
-    <img src="https://i.imgur.com/CI95yvX.png" alt="Logo" width="120" height="80">
+  <a href="https://github.com/codylacey/finsta">
+    <img src="https://i.imgur.com/xj9QFeT.png" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Truffle</h3>
@@ -13,11 +13,11 @@
     <a href="https://github.com/codylacey/finsta"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://truffle-cooking.herokuapp.com" target="_blank">View Demo</a>
+    <a href="https://finsta-social.herokuapp.com" target="_blank">View Demo</a>
     ·
-    <a href="https://github.com/codylacey/truffle-cooking/issues" target="_blank">Report Bug</a>
+    <a href="https://github.com/codylacey/finsta/issues" target="_blank">Report Bug</a>
     ·
-    <a href="https://github.com/codylacey/truffle-cooking/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/codylacey/finsta/issues" target="_blank">Request Feature</a>
   </p>
 </p>
 
@@ -36,11 +36,9 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -54,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://i.imgur.com/vVdc3X9.gif" width="60%" alt="truffle" data-canonical-src="https://i.imgur.com/vVdc3X9.gif" style="max-width:100%;">
+<img src="https://i.imgur.com/76YMMwB.gif" width="60%" alt="truffle" data-canonical-src="https://i.imgur.com/76YMMwB.gif" style="max-width:100%;">
 
 Save your favorite recipes in one place. Import just the recipe from any website without distractions or clutter and generate grocery lists—Truffle’s everything a cook needs.
 
@@ -97,7 +95,7 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/codylacey/truffle-cooking/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/codylacey/finsta/issues) for a list of proposed features (and known issues).
 
 
 
@@ -126,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@codylaceydev](https://twitter.com/codylaceydev) - email cody@codylacey.com
 
-Project Link: [https://github.com/codylacey/truffle-cooking](https://github.com/codylacey/truffle-cooking)
+Project Link: [https://github.com/codylacey/finsta](https://github.com/codylacey/finsta)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
